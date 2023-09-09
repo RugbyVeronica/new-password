@@ -14,7 +14,7 @@
 
 ## Deployed Application
 View it live here:
-[here](https://rugbyveronica.github.io/password-generator/)
+[here](https://rugbyveronica.github.io/new-password/)
 
 
 ## Changes Made
